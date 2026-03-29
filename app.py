@@ -56,8 +56,8 @@ def compute_analysis(config):
 
 
 def main():
-    st.set_page_config(page_title="Efficient Frontier Dashboard", layout="wide")
-    st.title("Efficient Frontier Dashboard")
+    st.set_page_config(page_title="Efficient Frontier Dashboard With Stock Anchor", layout="wide")
+    st.title("Efficient Frontier Dashboard With Stock Anchor")
     st.caption("Interactive mean-variance, CML/SML, CAPM and valuation comparables dashboard.")
 
     default_tickers = DEFAULT_ANALYSIS_CONFIG["sector_universes"]["Magnificent_7"]

@@ -6,8 +6,8 @@ The default universe is the **Magnificent 7** (`AAPL, MSFT, AMZN, GOOGL, META, T
 
 ## Live Demo
 
-- Streamlit App: `https://<your-streamlit-app-url>`
-- GitHub Repository: `https://github.com/<your-username>/<your-repo>`
+- Streamlit App: `https://investment-club-rcrctjlsdwowcsezrpohjh.streamlit.app/`
+- GitHub Repository: `https://github.com/rafidshorim/Investment-Club`
 
 ## Portfolio Snapshot
 
@@ -113,16 +113,6 @@ Example markdown (replace with your actual files):
 ![Frontier and SML](images/frontier-sml.png)
 ![Summary Tables](images/summary-tables.png)
 ```
-
-## Recruiter Quick View
-
-- **Tools:** Python, Streamlit, NumPy, Pandas, Matplotlib, yfinance/HTTP APIs
-- **Finance Concepts:** Efficient Frontier, Tangency Portfolio, CML, SML, CAPM alpha
-- **Engineering Focus:** Robust data fallbacks, reusable analysis engine, deployable dashboard
-
-## Resume Bullet (Optional)
-
-> Built and deployed an interactive Streamlit dashboard for portfolio optimization and CAPM analysis, enabling real-time scenario testing across custom equity universes with Monte Carlo efficient frontier simulation.
 
 ## Data & Method Notes
 
